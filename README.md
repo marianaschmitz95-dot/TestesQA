@@ -58,6 +58,5 @@ Severidade: Baixa | Prioridade: Baixa
 ## 👩‍💻 Autora
 
 **Mariana** — QA Analyst em transição de carreira  
-[LinkedIn](www.linkedin.com/in/
-mariana-schmitz-qa
+[LinkedIn](www.linkedin.com/in/mariana-schmitz-qa
 ) | [GitHub](https://github.com/marianaschmitz95-dot)
