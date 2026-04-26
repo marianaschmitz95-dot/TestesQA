@@ -46,6 +46,23 @@ Severidade: Baixa | Prioridade: Baixa
 
 ---
 
+## 🖼️ Evidências de Execução
+
+| Caso | Resultado | Evidência |
+|------|-----------|-----------|
+| CT-001 | ✅ Passed | ![CT-001](evidencias/CT-001.png) |
+| CT-002 | ✅ Passed | ![CT-002](evidencias/CT-002.png) |
+| CT-003 / BUG-001 | ❌ Failed | [▶ assistir](evidencias/CT-003-BUG-001.mp4) |
+| CT-004 | ✅ Passed | ![CT-004](evidencias/CT-004.png) |
+| CT-005 | ✅ Passed | [▶ assistir](evidencias/CT-005.mp4) |
+| CT-006 | ✅ Passed | ![CT-006](evidencias/CT-006.png) |
+| CT-007 | ✅ Passed | [▶ assistir](evidencias/CT-007.mp4) |
+| CT-008 | ✅ Passed | [▶ assistir](evidencias/CT-008.mp4) |
+| CT-009 | ✅ Passed | [▶ assistir](evidencias/CT-009.mp4) |
+| CT-010 / BUG-002 | ❌ Failed | [▶ assistir](evidencias/CT-010-BUG-002.mp4) |
+
+---
+
 ## 🛠️ Tecnologias e ferramentas
 
 - Teste manual funcional
