@@ -11,7 +11,7 @@ Sou a **Mariana**, QA Analyst apaixonada por qualidade de software.
 Este repositório reflete minha jornada na área, com foco em testes funcionais manuais, documentação estruturada e rastreabilidade de defeitos.
 
 **Mariana** — QA Analyst  
-[LinkedIn](www.linkedin.com/in/mariana-schmitz-qa) | [GitHub](https://github.com/marianaschmitz95-dot)
+[LinkedIn](https://www.linkedin.com/in/mariana-schmitz-qa) | [GitHub](https://github.com/marianaschmitz95-dot)
 ---
 
 ## 🛒 Sobre o Projeto
