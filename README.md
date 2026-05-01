@@ -39,7 +39,7 @@ Cada módulo contém:
 - 📋 **Casos de Teste** — objetivo, pré-condições, passos, dados e resultado esperado
 - ▶️ **Execução** — registro por ciclo e build, com vínculo ao caso de teste
 - 🐛 **Bugs** — severidade, prioridade, passos para reproduzir e rastreabilidade
-- 🎥 **Evidências** — gravações em vídeo dos casos executados
+- 🎥 **Evidências** — gravações em vídeo e prints de tela dos casos executados
 
 ---
 
