@@ -46,7 +46,7 @@ Cada módulo contém:
 ## 🛠️ Ferramentas Utilizadas
 
 - 📊 **Microsoft Excel** — documentação dos casos de teste, execuções e bugs
-- 🎥 **Gravação de tela** — evidências em vídeo
+- 🎥 **Gravação de tela e prints** — evidências em vídeo e imagens
 - 🐙 **Git & GitHub** — versionamento e portfólio
 
 ---
