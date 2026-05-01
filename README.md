@@ -47,7 +47,7 @@ Cada módulo contém:
 
 - 📊 **Microsoft Excel** — documentação dos casos de teste, execuções e bugs
 - 🎥 **Gravação de tela e prints** — evidências em vídeo e imagens
-- 🐙 **Git & GitHub** — versionamento e portfólio
+- 🐈‍⬛ **Git & GitHub** — versionamento e portfólio
 
 ---
 
